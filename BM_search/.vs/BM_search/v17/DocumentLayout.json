@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Applications\\AIDS_1\\AIDS_1\\BM_search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB7D291-DF13-4819-96A6-FC9037EE0955}|BM_search\\BM_search.vcxproj|A:\\Applications\\AIDS_1\\AIDS_1\\BM_search\\BM_search\\BMSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBB7D291-DF13-4819-96A6-FC9037EE0955}|BM_search\\BM_search.vcxproj|solutionrelative:BM_search\\BMSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMSearch.cpp",
+              "DocumentMoniker": "A:\\Applications\\AIDS_1\\AIDS_1\\BM_search\\BM_search\\BMSearch.cpp",
+              "RelativeDocumentMoniker": "BM_search\\BMSearch.cpp",
+              "ToolTip": "A:\\Applications\\AIDS_1\\AIDS_1\\BM_search\\BM_search\\BMSearch.cpp",
+              "RelativeToolTip": "BM_search\\BMSearch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T14:46:05.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
