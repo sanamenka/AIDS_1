@@ -17,6 +17,15 @@ void shellSort(int* array, int size) {
     }
 }
 
+bool isSorted(int* array, int size) {
+    for (int i = 0; i < size - 1; i++) {
+        if (array[i] > array[i + 1]) {
+            return false;
+        }
+    }
+    return true;
+}
+
 int main() {
     int size;
     std::cout << "How many numbers you want to enter into the unsorted array: " << std::endl;
@@ -32,11 +41,17 @@ int main() {
     for (int i = 0; i < size; i++) {
         std::cout << array[i] << " ";
     }
+    std::cout << std::endl;
     shellSort(array, size);
-    std::cout << "\nSorted array: " << std::endl;
+    std::cout << "Sorted array: " << std::endl;
     for (int i = 0; i < size; i++) {
         std::cout << array[i] << " ";
     }
+    std::cout << std::endl;
+    if (isSorted(array, size)) 
+        std::cout << "Array successfully sorted" << std::endl;
+    else 
+        std::cout << "Error: the array is not sorted." << std::endl;
     delete[] array;
     return 0;
 }
