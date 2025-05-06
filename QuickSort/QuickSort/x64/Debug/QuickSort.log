@@ -1,0 +1,3 @@
+﻿  QuickSort.cpp
+A:\Applications\AIDS_1\AIDS_1\QuickSort\QuickSort\QuickSort.cpp(36,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  QuickSort.vcxproj -> A:\Applications\AIDS_1\AIDS_1\QuickSort\x64\Debug\QuickSort.exe
