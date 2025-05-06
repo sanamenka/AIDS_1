@@ -1,0 +1,4 @@
+﻿  TSP.cpp
+A:\Applications\AIDS_1\AIDS_1\TSP\TSP\TSP.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+A:\Applications\AIDS_1\AIDS_1\TSP\TSP\TSP.cpp(31,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  TSP.vcxproj -> A:\Applications\AIDS_1\AIDS_1\TSP\x64\Debug\TSP.exe
