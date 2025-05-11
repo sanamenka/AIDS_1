@@ -1,0 +1,4 @@
+﻿  BMSearch.cpp
+A:\Applications\AIDS_1\AIDS_1\BM_search\BM_search\BMSearch.cpp(18,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+A:\Applications\AIDS_1\AIDS_1\BM_search\BM_search\BMSearch.cpp(20,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  BM_search.vcxproj -> A:\Applications\AIDS_1\AIDS_1\BM_search\x64\Debug\BM_search.exe
